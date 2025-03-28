@@ -70,9 +70,8 @@
 
 ### **Virtual Machine (Kali Linux)**
 
-![](./images/Kali.png)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/37ae45ff-1f50-40d5-903d-6d88ffe644b0" />
 
-![](./images/kali1.png)
 
 ---
 
